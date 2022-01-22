@@ -8,4 +8,4 @@
 - 🔭 I’m currently working on single-cell genomics.
 - 💬 Ask me about cell typing in single-cell genomics.
 - 📫 How to reach me: let it be.
-- ⚡ Fun fact: Ph.D. candidate in Marathon, in badminton, in ukulele, etc.
+- ⚡ Fun facts: a lifelong Ph.D. candidate in Marathon, in badminton, in ukulele, in cooking, etc.
